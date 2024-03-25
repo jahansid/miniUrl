@@ -1,0 +1,1 @@
+export const serverUrl = import.meta.env.serverUrl || "http://localhost:8001/api";
